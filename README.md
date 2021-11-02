@@ -24,7 +24,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 
 #### Desktop View
-![Desktopview](results\desktop.png)
+![](results\desktop.png)
 
 #### Mobile View
 <p align="center">
